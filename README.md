@@ -1,5 +1,6 @@
-# Metode Numerik Part 1
+# Metode Numerik Akar-Akar Persamaan
 ```
+Metode :
 1 Bisection Method
 2 Regulafasi Method
 3 Newton Method
